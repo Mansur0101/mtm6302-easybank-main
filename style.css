@@ -14,4 +14,13 @@
   .intro-image {
     max-width: 100%;
   }
+  .navbar-toggler-icon,
+  .navbar-toggle {
+    display: none;
+  }
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
